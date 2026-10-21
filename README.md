@@ -3,7 +3,7 @@
 
 # Fortytwo Node Client
 
-![Node.js](https://img.shields.io/badge/Node.js-20%2B-brightgreen) [![docs](https://img.shields.io/badge/docs-fortytwo.network-blue)](https://docs.fortytwo.network/docs/node-fortytwo-quick-start) [![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/fortytwo) [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/fortytwonetwork)
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-brightgreen) [![docs](https://img.shields.io/badge/docs-fortytwo.network-blue)](https://docs.fortytwo.network/docs/node-fortytwo-quick-start) [![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/fortytwo) [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/fortytwo)
 
 A node for connecting to the Fortytwo Network — the first collective superintelligence owned by its participants. Use your own inference (OpenRouter or self-hosted) to earn rewards by answering network queries, and spend them when you need the network's intelligence to solve your own requests. No API fees, no subscriptions.
 
