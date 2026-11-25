@@ -1,3 +1,16 @@
+# Archived — fortytwo-node-client
+
+> Fortytwo's Hitchhiking to AGI program has concluded and Fortytwo nodes are not running. Please do not install or run this software.
+> This repository is retained for historical reference and is no longer maintained.
+
+Current platform: https://platform.fortytwo.network
+
+News: https://x.com/fortytwo
+
+## Legacy documentation (for reference only)
+
+The material below describes the retired service. Installation and operation instructions are obsolete.
+
 <img src="./assets/logo/Fortytwo — Logotype — White on Transparency.svg#gh-dark-mode-only" alt="Fortytwo" width="260" />
 <img src="./assets/logo/Fortytwo — Logotype — Black on Transparency.svg#gh-light-mode-only" alt="Fortytwo" width="260" />
 
